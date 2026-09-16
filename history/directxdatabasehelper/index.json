@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "directxdatabasehelper.dll",
+  "latest": "2273281722-9747AAF567DC615CA025165F35B52FF1-1",
+  "builds": [
+    {
+      "key": "2273281722-9747AAF567DC615CA025165F35B52FF1-1",
+      "timestamp": "2273281722",
+      "pdb_guid": "9747AAF567DC615CA025165F35B52FF1",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2273281722-9747AAF567DC615CA025165F35B52FF1-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
